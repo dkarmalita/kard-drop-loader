@@ -1,0 +1,31 @@
+{
+  "name": "@kard/drop-loader",
+  "version": "0.1.0-alpha.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "publish-next": "publish-next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Dmitry Karmalita",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkarmalita/kard-drop-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkarmalita/kard-drop-loader/issues"
+  },
+  "homepage": "https://github.com/dkarmalita/kard-drop-loader#readme",
+  "devDependencies": {
+    "@kard/publish-next": "0.1.0-rc.6"
+  },
+  "dependencies": {}
+}
