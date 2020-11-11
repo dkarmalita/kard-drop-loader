@@ -1,6 +1,6 @@
 {
   "name": "@kard/drop-loader",
-  "version": "0.1.0-rc.0",
+  "version": "0.1.0-rc.1",
   "description": "",
   "main": "lib/index.js",
   "directories": {
@@ -24,8 +24,8 @@
     "url": "https://github.com/dkarmalita/kard-drop-loader/issues"
   },
   "homepage": "https://github.com/dkarmalita/kard-drop-loader#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "@kard/publish-next": "0.1.0-rc.6"
-  },
-  "dependencies": {}
+  }
 }
